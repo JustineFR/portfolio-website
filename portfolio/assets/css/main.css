@@ -226,6 +226,15 @@ input, select, textarea {
 		font-size: 0.6rem;
 	}
 
+	/* MY CODE -------------------------------- */
+	.portfolio {
+		border-bottom: 1px solid white;
+		margin-bottom: 4em;
+	}
+
+
+	/* ----------------------------------------- */
+
 	@media screen and (max-width: 736px) {
 
 		h1 {
@@ -1135,7 +1144,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/montain1.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
